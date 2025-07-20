@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "86378672727",
+    "project_id": "climb-jump",
+    "storage_bucket": "climb-jump.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86378672727:ios:229603ef118e3db2e2a912",
+        "android_client_info": {
+          "package_name": "com.finik.ClimbJump"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6HO7AiJJYCJVFgKTH3Zu0MdsmlA3_n78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
